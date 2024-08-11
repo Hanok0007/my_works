@@ -25,7 +25,7 @@ function wishMe() {
 }
 
 window.addEventListener('load', () => {
-    speak("Initializing STORM...");
+    speak("Initializing Cauvery...");
     wishMe();
 });
 
